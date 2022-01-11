@@ -1,1 +1,3 @@
-# -PHP-Exercise-1-Array
+# PHP-Exercise-2-Array
+
+# PHP Array
